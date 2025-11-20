@@ -77,7 +77,7 @@ export function ChatContainer() {
       {/* Header */}
       <div className="chat-header">
         <h1>Chat Assistant</h1>
-        <p>Ask me anything about the Vibe Coding Foundation course!</p>
+        <p>Ask me anything (including about the Vibe Coding Foundation course!)</p>
       </div>
 
       {/* Message display area */}
