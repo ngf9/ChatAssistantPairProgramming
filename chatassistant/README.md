@@ -32,9 +32,7 @@ You should see a chat interface. Try sending a message - you'll get a placeholde
 Complete the `lib/chat.ts` file to make the chat assistant work for real.
 
 ### Part 1: Basic Chat with Personality (Required)
-
-- [ ] Create an OpenAI account at [platform.openai.com](https://platform.openai.com)
-- [ ] Get an API key from the API Keys section
+- [X] Get an API key from the API Keys section (this has been completed for you and can be found in .env!)
 - [ ] Install the OpenAI SDK:
   ```bash
   npm install openai
